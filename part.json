@@ -1,6 +1,4 @@
 {
-  "parts": [
-    {"name": "Part1", "url": "http://example.com/1"},
-    {"name": "Part2", "url": "http://example.com/2"}
-  ]
+  "name":"Part 1"
+  "link":"https://Part1"
 }
